@@ -10,7 +10,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to left ,blue , red);
+    background-color:blue;
 }
 .container{
     background-color: #F18F01;
